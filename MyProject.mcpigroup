@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=..\MyProject.mcppi
+Project1=..\keypad\MyProject.mcppi
+Project2=..\tryK\MyProject.mcppi
+Project3=MyProject.mcppi
+[ActiveProject]
+Index=3
